@@ -6,6 +6,24 @@ Welcome to the future of nutrition tracking! This isn't your grandma's calorie c
 
 TRY IT HERE --> https://calorie-tracker-lyart.vercel.app/login
 
+Screens!!
+
+
+![image](https://github.com/user-attachments/assets/3881ec65-4ecc-4f61-93d9-0a32fb89874c)
+
+![image](https://github.com/user-attachments/assets/b1dbf5c7-9ecc-4a70-b973-48dbce0e75ad)
+
+![image](https://github.com/user-attachments/assets/c25e5364-f4fe-4a51-9128-64c5dde05ea7)
+
+![image](https://github.com/user-attachments/assets/a2775a99-da47-42a7-80ba-90714155a59c)
+
+![image](https://github.com/user-attachments/assets/60af51d2-5679-4269-a1a4-6739af532684)
+
+![image](https://github.com/user-attachments/assets/a0708c23-619c-4d96-9e08-a6eeac29ca65)
+
+![image](https://github.com/user-attachments/assets/33df433a-fae0-45a0-9761-0af20bd7cadf)
+
+
 ## 🚀 What Makes This Special?
 
 - **🎤 Voice-Powered**: Just speak your food into existence! "Two donuts and regret" → Boom, tracked!
