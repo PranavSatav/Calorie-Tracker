@@ -4,6 +4,8 @@
 
 Welcome to the future of nutrition tracking! This isn't your grandma's calorie counter - it's powered by cutting-edge AI that understands when you say "I devoured a mountain of nachos" and somehow knows that equals 847 calories. Magic? No. AI? YES! ✨
 
+TRY IT HERE --> https://calorie-tracker-lyart.vercel.app/login
+
 ## 🚀 What Makes This Special?
 
 - **🎤 Voice-Powered**: Just speak your food into existence! "Two donuts and regret" → Boom, tracked!
